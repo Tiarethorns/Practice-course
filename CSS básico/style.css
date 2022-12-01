@@ -1,0 +1,35 @@
+/*
+first:#FCFFA6
+second:#C1FFD7
+third:#B5DEFF
+fourth:#CAB8FF
+*/
+h1 {
+  color: #fcffa6;
+}
+.bg-fourth {
+  background-color: #cab8ff;
+}
+.first {
+  color: #fcffa6;
+}
+.text-center {
+  text-align: center;
+}
+
+.text-second {
+  color: #c1ffd7;
+}
+
+.bg-third {
+  background-color: #b5deff;
+}
+.width-100 {
+  width: 100px;
+}
+.width-200 {
+  width: 200px;
+}
+.bg-first {
+  background-color: #fcffa6;
+}
